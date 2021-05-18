@@ -1,4 +1,3 @@
-# tejamic
 
 # Resume 
 
