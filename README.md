@@ -45,5 +45,9 @@ java       | 30%
 :smile:
 
 # Email:
-email id is : ![gmail](tejureddy.ogirala@gmail.com)
+email id is : 
+
+(tejureddy.ogirala@gmail.com)
+
+
 
