@@ -43,3 +43,7 @@ java       | 30%
 
 # Emoji:
 :smile:
+
+# Email:
+email id is : ![gmail](tejureddy.ogirala@gmail.com)
+
