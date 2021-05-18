@@ -41,4 +41,5 @@ technology | percentage
 python     | 50%
 java       | 30%
 
+# Emoji:
 :smile:
