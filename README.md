@@ -35,6 +35,7 @@ _this is also italic_
 'Mic college'
 
 # Table:
+
 technology | percentage 
 ---------- | ----------
 python     | 50%
